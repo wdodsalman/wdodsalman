@@ -3,22 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wdodsalman&label=Profile%20views&color=0e75b6&style=flat" alt="wdodsalman" /> </p>
 
-- 🔭 I’m currently working on **app ecommerce**
-
-- 🌱 I’m currently learning **flutter , php**
-
-- 🤝 I’m looking for help with **app ecommerce**
-
-- 💬 Ask me about **flutter , dart**
-
-- 📫 How to reach me **abdulwadodsalman@gmail.com**
-
-- ⚡ Fun fact **I Think I am funny**
-
-
-
-
- ![I am Flutter developer](https://www.linkpicture.com/q/image-1_42.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
