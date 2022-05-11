@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abdulwadod
 #### I am Flutter developer
-![I am Flutter developer](https://www.linkpicture.com/q/image-1.png)
+![I am Flutter developer](https://www.linkpicture.com/q/image-1_42.jpg)
 
 
 Skills: Dart / Flutter
