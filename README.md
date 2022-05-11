@@ -1,24 +1,31 @@
-### Hi there 👋, my name is Abdulwadod
-#### I am Flutter developer
-![I am Flutter developer](https://www.linkpicture.com/q/image-1_42.jpg)
+<h1 align="center">Hi 👋, I'm abdulwadod</h1>
+<h3 align="center">A Flutter developer from Iraq</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wdodsalman&label=Profile%20views&color=0e75b6&style=flat" alt="wdodsalman" /> </p>
 
-Skills: Dart / Flutter
+- 🔭 I’m currently working on **app ecommerce**
 
-- 🔭 I’m currently working on ecmmorece app 
-- 🌱 I’m currently learning php 
-- 🤔 I’m looking for help with flutter and dart 
-- 💬 Ask me about instagram.com/abdulwadodithawi 
+- 🌱 I’m currently learning **flutter , php**
 
+- 🤝 I’m looking for help with **app ecommerce**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wdodsalman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdulwadodithawi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abdulwadodithawi/)  
+- 💬 Ask me about **flutter , dart**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdodsalman)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **abdulwadodsalman@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wdodsalman&show_icons=true&count_private=true)  
+- ⚡ Fun fact **I Think I am funny**
+ ![I am Flutter developer](https://www.linkpicture.com/q/image-1_42.jpg)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wdodsalman)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdulwadodithawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulwadodithawi" height="30" width="40" /></a>
+<a href="https://instagram.com/abdulwadodithawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulwadodithawi" height="30" width="40" /></a>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/wdodsalman)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-![Profile views](https://gpvc.arturio.dev/wdodsalman)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wdodsalman&show_icons=true&locale=en&layout=compact" alt="wdodsalman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wdodsalman&show_icons=true&locale=en" alt="wdodsalman" /></p>
+
